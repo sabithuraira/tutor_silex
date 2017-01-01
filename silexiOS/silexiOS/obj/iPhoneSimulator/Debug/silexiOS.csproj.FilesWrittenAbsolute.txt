@@ -1,0 +1,10 @@
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/bin/iPhoneSimulator/Debug/silexiOS.exe.mdb
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/bin/iPhoneSimulator/Debug/silexiOS.exe
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/silexiOS.exe
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/obj/iPhoneSimulator/Debug/silexiOS.exe.mdb
+/Users/sabithuraira/tutor_silex/silexiOS/silexiOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

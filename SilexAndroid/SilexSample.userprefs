@@ -1,21 +1,20 @@
 ﻿<Properties StartupConfiguration="{72C6B94A-23DC-4E68-B496-328CACD8D8AB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SilexSample/MainActivity.cs">
     <Files>
-      <File FileName="SilexSample/MainActivity.cs" Line="100" Column="4" />
-      <File FileName="SilexSample/FoodAdapter.cs" Line="14" Column="15" />
-      <File FileName="SilexSample/FoodLoader.cs" Line="31" Column="1" />
+      <File FileName="SilexSample/MainActivity.cs" Line="205" Column="4" />
+      <File FileName="SilexSample/FoodAdapter.cs" Line="17" Column="17" />
+      <File FileName="SilexSample/FoodLoader.cs" Line="2" Column="34" />
+      <File FileName="SilexSample/FoodMenu.cs" Line="20" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SilexSample" expanded="True">
             <Node name="SilexSample" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="From Packages" expanded="True" />
-              </Node>
-              <Node name="Packages" expanded="True" />
+              <Node name="References" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
                 <Node name="mipmap-hdpi" expanded="True" />
               </Node>
               <Node name="MainActivity.cs" selected="True" />
@@ -30,5 +29,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SilexSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.TA89006QHJ" />
+  <MonoDevelop.Ide.ItemProperties.SilexSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
 </Properties>

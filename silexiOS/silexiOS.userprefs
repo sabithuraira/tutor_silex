@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{298C78DF-2F10-4D68-A1AE-D0BEB7CF8CD4}|Default">
+  <MonoDevelop.Ide.ItemProperties.silexiOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.103880BD-F82E-4473-A904-D4AEAC2F8329" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="silexiOS/MainController.cs">
+    <Files>
+      <File FileName="silexiOS/MainController.cs" Line="59" Column="3" />
+      <File FileName="silexiOS/FoodLoader.cs" Line="48" Column="30" />
+      <File FileName="silexiOS/FoodMenu.cs" Line="29" Column="1" />
+      <File FileName="silexiOS/FoodAdapter.cs" Line="29" Column="4" />
+      <File FileName="silexiOS/FormController.cs" Line="27" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
